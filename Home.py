@@ -68,4 +68,4 @@ footer_container = st.container()
 # Add content to the footer container
 with footer_container:
 
-    st.write("Github @ <a href='https://github.com/Ryzxxl/Job-Recomendation'>Repository</a>", unsafe_allow_html=True)
+    st.write("Github @ <a href='https://github.com/Prikshit7766/Job-Recomendation'>Repository</a>", unsafe_allow_html=True)
