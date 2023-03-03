@@ -177,3 +177,5 @@ Here are some resources that helped me while working on this project:
 - [Recommendation system using KNN blog post](https://www.aurigait.com/blog/recommendation-system-using-knn/)
 - [Smart Resume Analyser App code](https://github.com/Spidy20/Smart_Resume_Analyser_App)
 - [Downloadable paper on recommendation systems](https://core.ac.uk/download/pdf/55305289.pdf)
+
+
