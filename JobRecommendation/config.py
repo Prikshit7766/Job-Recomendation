@@ -13,5 +13,5 @@ import streamlit as st
 # env_var = EnvironmentVariable()
 client = pymongo.MongoClient(st.secrets["MONGO_DB_URL"])
 # print ("connection established")
-print(env_var.mongo_db_url)
+
 
