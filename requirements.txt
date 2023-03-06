@@ -27,7 +27,8 @@ streamlit==1.19.0
 streamlit_folium==0.11.1
 streamlit_tags==1.2.8
 spacy==2.3.5
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
-
+streamlit_extras==0.2.6
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+-e .
 
 
