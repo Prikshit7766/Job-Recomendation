@@ -45,6 +45,7 @@ def run():
             count_=0
 
             encoded_pdf=utils.pdf_to_base64(pdf_file)
+            print(encoded_pdf)
             embed_code=utils.show_pdf(encoded_pdf)
             st.markdown(embed_code, unsafe_allow_html=True)
             resume_data = ResumeParser(pdf_file).get_extracted_data()
