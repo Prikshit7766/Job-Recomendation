@@ -142,6 +142,12 @@ def app():
                 show_pdf=cols[i%no_of_cols].button(f"{cvID}.pdf")
                 if show_pdf:
                     st.markdown(embed_code, unsafe_allow_html=True)
+                
+                
+                            
+            
+                
+                
                 cols[i%no_of_cols].text('___________________________________________________')
 
             
