@@ -5,7 +5,7 @@ from JobRecommendation.sidebar import sidebar
 import altair as alt
 import plotly.express as px 
 from streamlit_extras.switch_page_button import switch_page
-from JobRecommendation.lottie_animation import load_lottieurl
+from JobRecommendation.animation import load_lottieurl
 # EDA Pkgs
 import pandas as pd 
 import numpy as np 
