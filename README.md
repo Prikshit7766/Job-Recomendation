@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/101416953/224047516-dd303893-08d4-4130
 
 <h1 align="center">Deployment</h1>
 
-## Deployment URL : https://ryzxxl-job-recomendation-home-lclfm4.streamlit.app/
+## Deployment URL : https://prikshit7766-job-recomendation-home-txucke.streamlit.app/
 
 
 <h1 align="center">Problem Statement</h1>
