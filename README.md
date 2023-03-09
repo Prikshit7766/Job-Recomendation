@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/101416953/224047516-dd303893-08d4-4130
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h1 align="center">Deployment</h1>
+<h2 align="center">Deployment</h2>
 
 ## Deployment URL : https://prikshit7766-job-recomendation-home-txucke.streamlit.app/
 
