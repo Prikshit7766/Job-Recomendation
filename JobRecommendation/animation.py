@@ -16,4 +16,3 @@ def load_lottieurl(url: str):
     return r.json()
 
 
-
